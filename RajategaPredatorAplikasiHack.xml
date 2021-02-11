@@ -1,19 +1,19 @@
 <?xml version='1.0' standalone='yes'?>
 <servers>
 <server name=" ⭐⭐⭐ P O S  🔺  R O N D A ⭐⭐⭐ " ca="0" continent_code="ID" country="Nusantara" country_code="ID" ip="144.76.73.12" port="43077" region="Vps Nasional" url="http://mb.puma-network.net" token=""/>
-<server name="1 CHANNEL  ( T M K )" ca="0" continent_code="ID" country="CHANNEL 001" country_code="ID" ip="164.132.3.62" port="46560" region="Vps regional" url="http://mb.puma-network.net" token=""/>
-<server name="2 CHANNEL  ( M P A ) MADIUN PLAT AE" ca="0" continent_code="ID" country="CHANNEL 002" country_code="ID" ip="144.76.73.12" port="39891" region="Vps Channel" url="http://mb.puma-network.net" token=""/>
-<server name="3 CHANNEL  ( R W K ) RADIO WARGA KITA" ca="0" continent_code="ID" country="CHANNEL 003" country_code="ID" ip="mumble-us.cleanvoice.com" port="32869" region="Vps Member" url="http://mb.puma-network.net" token="75"/>
-<server name="4 CHANNEL  ( R C I ) RADIO CELUP INDONESIA" ca="0" continent_code="ID" country="CHANNEL 004" country_code="ID" ip="144.76.73.12" port="43077" region="Vps member" url="http://mb.puma-network.net" token=""/>
-<server name="5 CHANNEL  ( B W I ) BANYUWANGI" ca="0" continent_code="ID" country="CHANNEL 005" country_code="ID" ip="164.132.3.62" port="46671" region="Vps Channel" url="http://mb.puma-network.net" token=""/>
-<server name="6 CHANNEL  ( N T B ) NUSA TENGGARA BARAT" ca="0" continent_code="ID" country="CHANNEL 006" country_code="ID" ip="164.132.3.62" port="46553" region="Vps Channel" url="http://mb.puma-network.net" token="75"/>
-<server name="7 CHANNEL  ( S N B ) SEPUR NABRAK BUH" ca="0" continent_code="ID" country="CHANNEL 007" country_code="ID" ip="mumble-us.cleanvoice.com" port="33055" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
-<server name="8 CHANNEL   KOSONG " ca="0" continent_code="ID" country="CHANNEL 008" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
-<server name="9 CHANNEL   KOSONG " ca="0" continent_code="ID" country="CHANNEL 009" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
-<server name="10 CHANNEL  KOSONG " ca="0" continent_code="ID" country="CHANNEL 010" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
-<server name="11 CHANNEL  KOSONG " ca="0" continent_code="ID" country="CHANNEL 011" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
-<server name="12 CHANNEL  KOSONG " ca="0" continent_code="ID" country="CHANNEL 012" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
-<server name="13 CHANNEL  KOSONG " ca="0" continent_code="ID" country="CHANNEL 013" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
-<server name="14 CHANNEL  KOSONG " ca="0" continent_code="ID" country="CHANNEL 014" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
+<server name="1 CH ( T M K )" ca="0" continent_code="ID" country="CHANNEL 001" country_code="ID" ip="164.132.3.62" port="46560" region="Vps regional" url="http://mb.puma-network.net" token=""/>
+<server name="2 CH ( M P A ) MADIUN PLAT AE" ca="0" continent_code="ID" country="CHANNEL 002" country_code="ID" ip="144.76.73.12" port="39891" region="Vps Channel" url="http://mb.puma-network.net" token=""/>
+<server name="3 CH ( R W K ) RADIO WARGA KITA" ca="0" continent_code="ID" country="CHANNEL 003" country_code="ID" ip="mumble-us.cleanvoice.com" port="32869" region="Vps Member" url="http://mb.puma-network.net" token="75"/>
+<server name="4 CH ( R C I ) RADIO CELUP INDONESIA" ca="0" continent_code="ID" country="CHANNEL 004" country_code="ID" ip="144.76.73.12" port="43077" region="Vps member" url="http://mb.puma-network.net" token=""/>
+<server name="5 CH ( B W I ) BANYUWANGI" ca="0" continent_code="ID" country="CHANNEL 005" country_code="ID" ip="164.132.3.62" port="46671" region="Vps Channel" url="http://mb.puma-network.net" token=""/>
+<server name="6 CH ( N T B ) NUSA TENGGARA BARAT" ca="0" continent_code="ID" country="CHANNEL 006" country_code="ID" ip="164.132.3.62" port="46553" region="Vps Channel" url="http://mb.puma-network.net" token="75"/>
+<server name="7 CH ( S N B ) SEPUR NABRAK BUH" ca="0" continent_code="ID" country="CHANNEL 007" country_code="ID" ip="mumble-us.cleanvoice.com" port="33055" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
+<server name="8 CH KOSONG " ca="0" continent_code="ID" country="CHANNEL 008" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
+<server name="9 CH KOSONG " ca="0" continent_code="ID" country="CHANNEL 009" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
+<server name="10 CH KOSONG " ca="0" continent_code="ID" country="CHANNEL 010" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
+<server name="11 CH KOSONG " ca="0" continent_code="ID" country="CHANNEL 011" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
+<server name="12 CH KOSONG " ca="0" continent_code="ID" country="CHANNEL 012" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
+<server name="13 CH KOSONG " ca="0" continent_code="ID" country="CHANNEL 013" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
+<server name="14 CH KOSONG " ca="0" continent_code="ID" country="CHANNEL 014" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
 </servers>
 
