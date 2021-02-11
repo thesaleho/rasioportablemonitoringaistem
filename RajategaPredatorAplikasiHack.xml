@@ -8,5 +8,12 @@
 <server name=" 🇮🇩  CHANNEL    0 5       B W I     " ca="0" continent_code="ID" country="CHANNEL 005" country_code="ID" ip="164.132.3.62" port="46671" region="Vps Channel" url="http://mb.puma-network.net" token=""/>
 <server name=" 🇮🇩  CHANNEL    0 6       N T B    " ca="0" continent_code="ID" country="CHANNEL 006" country_code="ID" ip="164.132.3.62" port="46553" region="Vps Channel" url="http://mb.puma-network.net" token="75"/>
 <server name=" 🇮🇩  CHANNEL    0 7       S O S    " ca="0" continent_code="ID" country="CHANNEL 007" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
+<server name=" 🇮🇩  CHANNEL    0 8       A    " ca="0" continent_code="ID" country="CHANNEL 008" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
+<server name=" 🇮🇩  CHANNEL    0 9       B    " ca="0" continent_code="ID" country="CHANNEL 009" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
+<server name=" 🇮🇩  CHANNEL    1 0       C    " ca="0" continent_code="ID" country="CHANNEL 010" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
+<server name=" 🇮🇩  CHANNEL    1 1       D    " ca="0" continent_code="ID" country="CHANNEL 011" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
+<server name=" 🇮🇩  CHANNEL    1 2       E    " ca="0" continent_code="ID" country="CHANNEL 012" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
+<server name=" 🇮🇩  CHANNEL    1 3       F    " ca="0" continent_code="ID" country="CHANNEL 013" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
+<server name=" 🇮🇩  CHANNEL    1 4       G    " ca="0" continent_code="ID" country="CHANNEL 014" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
 </servers>
 
