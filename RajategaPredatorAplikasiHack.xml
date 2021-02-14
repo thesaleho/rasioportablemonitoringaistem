@@ -1,17 +1,1 @@
-<?xml version='1.0' standalone='yes'?>
-<servers>
-<server name=" 👮POS🔺RONDA👮 " ca="0" continent_code="ID" country="Nusantara" country_code="ID" ip="164.132.3.62" port="46560" region="Vps Nasional" url="http://mb.puma-network.net" token=""/>
-<server name="1🔺  CHANNEL ARC"ca="0" continent_code="ID" country="CHANNEL 001" country_code="ID" ip="144.76.73.12" port="39790" region="Vps regional" url="http://mb.puma-network.net" token=""/>
-<server name="2🔺  CHANNEL MPA 🐔🐔🐔" ca="0" continent_code="ID" country="CHANNEL 002" country_code="ID" ip="144.76.73.12" port="39891" region="Vps Channel" url="http://mb.puma-network.net" token=""/>
-<server name="3🔺  CHANNEL RWK" ca="0" continent_code="ID" country="CHANNEL 003" country_code="ID" ip="mumble-us.cleanvoice.com" port="32869" region="Vps Member" url="http://mb.puma-network.net" token="75"/>
-<server name="4🔺  CHANNEL JTG"ca="0" continent_code="ID" country="CHANNEL 004" country_code="ID" ip="164.132.3.62" port="46671" region="Vps Channel" url="http://mb.puma-network.net" token=""/>
-<server name="5🔺  CHANNEL NTB "ca="0" continent_code="ID" country="CHANNEL 005" country_code="ID" ip="164.132.3.62" port="46553" region="Vps Channel" url="http://mb.puma-network.net" token="75"/>
-<server name="6🔺  KOSONG " ca="0" continent_code="ID" country="CHANNEL 006" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
-<server name="7🔺  KOSONG " ca="0" continent_code="ID" country="CHANNEL 007" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
-<server name="8🔺  KOSONG " ca="0" continent_code="ID" country="CHANNEL 008" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
-<server name="9🔺  KOSONG " ca="0" continent_code="ID" country="CHANNEL 09" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
-<server name="A🔺  KOSONG " ca="0" continent_code="ID" country="CHANNEL 010" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
-<server name="B🔺  KOSONG " ca="0" continent_code="ID" country="CHANNEL 011" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
-<server name="C🔺  KOSONG " ca="0" continent_code="ID" country="CHANNEL 012" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
-</servers>
-
+Update vps-3 minggu 14 feb 2021
